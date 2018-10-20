@@ -1,3 +1,4 @@
+print "jsddfsj"
 f=open("test1.txt", "w")
 f.write("file11111111111111111111111")
 f.close()
